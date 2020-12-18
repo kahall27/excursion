@@ -1,5 +1,4 @@
 #discover {
-    text-align: center;
     color: white;
     font-family: Verdana;
     font-weight: normal;
@@ -7,7 +6,6 @@
 }   
 
 h6 {
-    text-align: center;
     color: aquamarine;
     font-size: 16px;
 }
@@ -15,4 +13,17 @@ h6 {
 body {
     background-color: black;
     text-align: center;
+}
+
+.information {
+    color: white;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h4 {
+    font-family: Verdana;
+    color: gray;
+    font-size: 21px;
 }
